@@ -1,0 +1,28 @@
+html {
+  background-image: url(gliter_tile.gif);
+  background-repeat: repeat;
+}
+.intro{
+  font-family: sans-serif;
+  font-size: 95%;
+  text-align:left;
+  padding-left: 25px;
+  width: 900px;
+  border: 7px solid black;
+  padding: 25px;
+  margin: 25px;
+  background: #f693ff;
+}
+
+.blogEntry1{
+  font-family: cursive;
+  color: black;
+  font-stretch: expanded;
+  font-size: 110%;
+  padding-left: 10%;
+  width: 900px;
+  border: 7px solid black;
+  padding: 25px;
+  margin: 25px;
+  background: #f693ff;
+}
