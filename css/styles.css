@@ -27,8 +27,8 @@ html {
   background: #f693ff;
 }
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 1080px) {
   .intro, .blogEntry1{
-    width: 500px;
+    width: 800px;
   }
 }
